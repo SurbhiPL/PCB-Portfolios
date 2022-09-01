@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "AG-010-0100-rescue")(type "Legacy")(uri "${KIPRJMOD}/AG-010-0100-rescue.lib")(options "")(descr ""))
+)
